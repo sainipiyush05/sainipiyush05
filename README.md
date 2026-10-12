@@ -35,7 +35,7 @@
 ```python
 class PiyushSaini:
 
-    role       = "Data Engineer & ML Developer"
+    role       = "Data Engineer & AI Engineer"
     university = "SRM IST, Chennai 🏛️"
     degree     = "B.Tech CS — AI/ML Specialisation"
     location   = "India 🇮🇳"
